@@ -31,7 +31,7 @@ function problemA () {
    * A. loggea el poema dos stanza uno y stanza dos en cualquier orden
    *    pero loggea 'done' cuando ambos hayan terminado
    *    (ignora errores)
-   *    nota: lecturas ocurriendo paralelamente (en simultaneo)
+   *    nota: lecturas ocuasdasdasdrriendo paralelamente (en simultaneo)
    *
    */
 
